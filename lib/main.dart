@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
 
+// TODO: add a field to input images or upload them to the application
 
 class JournalEntry {
   final int id;
